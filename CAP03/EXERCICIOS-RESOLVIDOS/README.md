@@ -52,9 +52,9 @@ valor do rendimento e o valor total depois do rendimento.
 - [Exercício 15:](EXE15)
   O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:
 
-a) o valor correspondente ao lucro do distribuidor;
-b) o valor correspondente aos impostos;
-c) o preço final do veículo.
+  a) o valor correspondente ao lucro do distribuidor;
+  b) o valor correspondente aos impostos;
+  c) o preço final do veículo.
 - [Exercício 16:](EXE16)
 - [Exercício 17:](EXE17)
 - [Exercício 18:](EXE18)

@@ -29,6 +29,11 @@ valor do rendimento e o valor total depois do rendimento.
 - [Exercício 10:](EXE10)
   Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 - [Exercício 11:](EXE11)
+  Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
+a) o número digitado ao quadrado;
+b) o número digitado ao cubo;
+c) a raiz quadrada do número digitado;
+d) a raiz cúbica do número digitado.
 - [Exercício 12:](EXE12)
 - [Exercício 13:](EXE13)
 - [Exercício 14:](EXE14)

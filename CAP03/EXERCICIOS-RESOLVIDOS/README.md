@@ -19,9 +19,15 @@ o valor do aumento e o novo salário.
 sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% tam-
 bém sobre o salário base.
 - [Exercício 7:](EXE07)
+  Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber,
+sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
 - [Exercício 8:](EXE08)
+  Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o
+valor do rendimento e o valor total depois do rendimento.
 - [Exercício 9:](EXE09)
+  Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
 - [Exercício 10:](EXE10)
+  Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 - [Exercício 11:](EXE11)
 - [Exercício 12:](EXE12)
 - [Exercício 13:](EXE13)

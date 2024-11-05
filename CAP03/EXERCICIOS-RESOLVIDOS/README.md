@@ -30,14 +30,31 @@ valor do rendimento e o valor total depois do rendimento.
   Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
 - [Exercício 11:](EXE11)
   Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
-a) o número digitado ao quadrado;
-b) o número digitado ao cubo;
-c) a raiz quadrada do número digitado;
-d) a raiz cúbica do número digitado.
+  a) o número digitado ao quadrado;
+  b) o número digitado ao cubo;
+  c) a raiz quadrada do número digitado;
+  d) a raiz cúbica do número digitado.
 - [Exercício 12:](EXE12)
+  Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 - [Exercício 13:](EXE13)
+  Sabe-se que:
+  pé = 12 polegadas
+  1 jarda = 3 pés
+  1 milha = 1,760 jarda
+  Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
+  a) polegadas;
+  b) jardas;
+  c) milhas.
 - [Exercício 14:](EXE14)
+  Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+  a) a idade dessa pessoa;
+  b) quantos anos ela terá em 2050.
 - [Exercício 15:](EXE15)
+  O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:
+
+a) o valor correspondente ao lucro do distribuidor;
+b) o valor correspondente aos impostos;
+c) o preço final do veículo.
 - [Exercício 16:](EXE16)
 - [Exercício 17:](EXE17)
 - [Exercício 18:](EXE18)

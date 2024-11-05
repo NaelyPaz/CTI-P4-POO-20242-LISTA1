@@ -5,9 +5,15 @@ Lista de exercícios:
 - [Exercício 1:](EXE01)
   Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 - [Exercício 2:](EXE02)
+  Faça um programa que receba três notas, calcule e mostre a média aritmética.
 - [Exercício 3:](EXE03)
+  Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 - [Exercício 4:](EXE04)
+  Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se
+que este sofreu um aumento de 25%.
 - [Exercício 5:](EXE05)
+  Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre
+o valor do aumento e o novo salário.
 - [Exercício 6:](EXE06)
 - [Exercício 7:](EXE07)
 - [Exercício 8:](EXE08)

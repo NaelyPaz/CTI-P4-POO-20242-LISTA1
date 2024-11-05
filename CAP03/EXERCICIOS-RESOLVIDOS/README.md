@@ -68,13 +68,13 @@ que este sofreu um aumento de 25%.
 - [Exercício 16:](EXE16)
   Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e mostre o salário a receber, seguindo estas regras:
 
-a) a hora trabalhada vale a metade do salário mínimo.
+  a) a hora trabalhada vale a metade do salário mínimo.
 
-b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.
+  b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.
 
-c) o imposto equivale a 3% do salário bruto.
+  c) o imposto equivale a 3% do salário bruto.
 
-d) o salário a receber equivale ao salário bruto menos o imposto.
+  d) o salário a receber equivale ao salário bruto menos o imposto.
 - [Exercício 17:](EXE17)
   Um trabalhador recebeu seu salário e o depositou em sua conta bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual. Sabe-se que cada operação bancária de retirada paga CPMF de 0,38% e o saldo inicial da conta está zerado.
 - [Exercício 18:](EXE18)
@@ -90,19 +90,19 @@ Observação: as funções trigonométricas implementadas nas linguagens de prog
 - [Exercício 22:](EXE22)
   Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
 
-a) o valor de cada quilowatt;
+  a) o valor de cada quilowatt;
 
-b) o valor a ser pago por essa residência;
+  b) o valor a ser pago por essa residência;
 
-c) o valor a ser pago com desconto de 15%.
+  c) o valor a ser pago com desconto de 15%.
 - [Exercício 23:](EXE23)
   Faça um programa que receba um número real, encontre e mostre:
 
-a) a parte inteira desse número;
+  a) a parte inteira desse número;
 
-b) a parte fracionária desse número;
+  b) a parte fracionária desse número;
 
-c) o arredondamento desse número.
+  c) o arredondamento desse número.
 - [Exercício 24:](EXE24)
   Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que:
 
